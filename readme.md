@@ -6,7 +6,7 @@ A PHP-MySQL based interview scheduler that allows candidates to book 15-minute i
 
 - **Public Scheduler Page:**
 
-  - View available 15-minute slots between 09:00 and 17:00.
+  - View available 15-minute slots between 09:00 and 19:00.
   - Date picker restricted to today (with past time slots disabled) and future dates.
   - Booking form requires candidate name and email.
   - Prevents duplicate bookings by the same email.
