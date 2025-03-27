@@ -31,5 +31,5 @@ A PHP-MySQL based interview scheduler that allows candidates to book 15-minute i
 
    ```bash
    git clone https://github.com/JaspreetSingh997/interviewScheduler.git
-   cd interview-scheduler
+   cd interviewScheduler
    ```
